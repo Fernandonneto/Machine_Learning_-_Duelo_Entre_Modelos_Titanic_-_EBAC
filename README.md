@@ -81,7 +81,7 @@ Essas técnicas foram incorporadas aos experimentos para avaliar seus efeitos no
 
 ### 5. Duelo de modelos
 
-Foram desenvolvidas 21 configurações de modelos, combinando algoritmos, cenários de variáveis e estratégias de preparação dos dados.
+Foram desenvolvidas 22 configurações de modelos, combinando algoritmos, cenários de variáveis e estratégias de preparação dos dados.
 
 **Random Forest**
 
